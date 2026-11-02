@@ -1,0 +1,1 @@
+echo $USER>me.txt
